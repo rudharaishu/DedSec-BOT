@@ -1,5 +1,7 @@
 # Us3RBot
-This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram.
+This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram.     https://t.me/DEDSEC_Offical
+
+ADMINs @Aid-3n
 
 # FORK AT YOUR OWN RISK
 
